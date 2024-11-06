@@ -1,0 +1,14 @@
+style{
+    h1{
+        font-size: medium;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+}
+body
+span{
+    font-family: 'Courier New', Courier, monospace;
+    color: blue;
+}
+p{
+color: blue;
+}
